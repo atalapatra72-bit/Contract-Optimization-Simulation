@@ -40,7 +40,7 @@ https://public.tableau.com/app/profile/arjun.talapatra/viz/NBAProject_1752005156
 
 ## 📄 Report
 
-See `file:///C:/Users/arjun/Downloads/NBA%20Data%20Analysis%20Report.pdf` for the full write-up with methodology, SQL queries, and detailed charts.
+See `https://github.com/atalapatra72-bit/NBA-Data-Analysis/blob/main/NBA%20Data%20Analysis%20Report.pdf` for the full write-up with methodology, SQL queries, and detailed charts.
 
 ## 🚀 Business Applications
 
