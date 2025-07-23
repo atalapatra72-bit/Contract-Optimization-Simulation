@@ -1,4 +1,4 @@
-# NBA Player Peaks: Age, Role, and Performance Trends
+# Contract Optimization Simulation
 
 By Arjun Talapatra
 
