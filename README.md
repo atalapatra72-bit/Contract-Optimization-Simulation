@@ -1,5 +1,3 @@
-# Contract Optimization Simulation
-
 By Arjun Talapatra
 
 ## 🔍 Objective
